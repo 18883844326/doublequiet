@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c74d081-9c07-4f5e-a87c-5dfa6283dd1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/doublequiet-boot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/doublequiet-boot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doublequiet-boot/src/main/java/com/example/doublequiet/DoublequietApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/doublequiet-boot/src/main/java/com/example/doublequiet/DoublequietApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doublequiet-boot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/doublequiet-boot/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doublequiet-boot/src/test/java/com/example/doublequiet/DoublequietApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/doublequiet-boot/src/test/java/com/example/doublequiet/DoubleQuietApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZfHjrXydXT0VFihsbT9U3QqK1e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/doublequiet-vue" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c74d081-9c07-4f5e-a87c-5dfa6283dd1e" name="Default Changelist" comment="" />
+      <created>1585223369515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585223369515</updated>
+      <workItem from="1585223376781" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1022" y="474" key="FileChooserDialogImpl" timestamp="1585223410558">
+      <screen x="0" y="0" width="2485" height="1440" />
+    </state>
+    <state x="1022" y="474" key="FileChooserDialogImpl/0.0.2485.1440@0.0.2485.1440" timestamp="1585223410558" />
+    <state x="923" y="543" key="com.intellij.ide.util.TipDialog" timestamp="1585223376777">
+      <screen x="0" y="0" width="2485" height="1440" />
+    </state>
+    <state x="923" y="543" key="com.intellij.ide.util.TipDialog/0.0.2485.1440@0.0.2485.1440" timestamp="1585223376777" />
+  </component>
+</project>

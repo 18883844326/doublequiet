@@ -1,0 +1,11 @@
+#端口号配置
+server:
+  port: 70
+
+#数据库配置
+spring:
+  datasource:
+　　driver-class-name: com.mysql.jdbc.Driver
+　　url: jdbc:mysql://182.92.221.158:3306/test?useUnicode=true&characterEncoding=utf8
+　　username: root
+　　password: 123456
